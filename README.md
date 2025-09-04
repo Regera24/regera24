@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Duc Van  
 
-🚀 A passionate **Java Developer** who loves building scalable back-end systems and interactive front-end applications.  
+🚀 A passionate **Software Engineer** who loves building scalable back-end systems and interactive front-end applications.  
 💡 Always curious, eager to learn, and open to collaboration.  
 
 ---
